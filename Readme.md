@@ -15,7 +15,7 @@ A complete Node.js + Express + TypeScript + PostgreSQL backend for managing user
 ------------------------
 **** Instruction & Usages ****
 
-Clone the Repository git clone (https://github.com/tasinbi/next-level-assignment-b6-a2)
+Clone the Repository git clone (https://github.com/nasermahmud747/Next-level-as2)
 cd Install Dependencies Backend cd backend npm install
 🔧 Environment Variables Create a .env file in the backend directory:
 PORT=5000 DATABASE_URL=<your_database_connection> JWT_SECRET=<your_secret_key>
